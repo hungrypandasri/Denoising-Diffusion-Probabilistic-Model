@@ -1,4 +1,4 @@
-# Assignment 3: Denoising Diffusion Probabilistic Model
+# Denoising Diffusion Probabilistic Model
 
 ## Objective:
 Implemented a Denoising Diffusion Probabilistic Model (DDPM) for denoising MNIST data, based on the paper "Denoising Diffusion Probabilistic Models" by Jonathan Ho, Ajay Jain, and Pieter Abbeel from UC Berkeley ([arXiv:2006.11239v2](https://arxiv.org/abs/2006.11239v2)).
